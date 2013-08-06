@@ -1,4 +1,7 @@
 jwishnie.github.io
 ==================
 
-Jwishnie's Pages
+JWishnie's Pages. 
+
+Just playing around with GitHub pages.
+
