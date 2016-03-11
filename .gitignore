@@ -37,3 +37,6 @@ nosetests.xml
 #backups
 #*#
 *~
+
+#Appleness
+.DS_Store
